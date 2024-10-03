@@ -1,0 +1,30 @@
+{
+  "name": "mobile",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "metro-config": "*",
+    "react-test-renderer": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/stack": "*",
+    "react-native-vector-icons": "*",
+    "@react-navigation/bottom-tabs": "*",
+    "react-native-gesture-handler": "*",
+    "react-native-contacts": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "@tanstack/react-query": "*",
+    "jotai": "*",
+    "react-native-reanimated": "*",
+    "luxon": "*",
+    "react-native-sqlite-storage": "*",
+    "react-hook-form": "*",
+    "react-native-screens": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-quick-sqlite": "*"
+  }
+}
